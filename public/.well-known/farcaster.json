@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "AlphaFlow",
+    "subtitle": "Built with Zara",
+    "description": "AlphaFlow is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://71c4021f677d4c129a484ac5c9e0a1f9-eg1t.vercel.app",
+    "splashImageUrl": "https://71c4021f677d4c129a484ac5c9e0a1f9-eg1t.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://71c4021f677d4c129a484ac5c9e0a1f9-eg1t.vercel.app/image.png",
+    "tagline": "AlphaFlow",
+    "screenshotUrls": [
+      "https://71c4021f677d4c129a484ac5c9e0a1f9-eg1t.vercel.app/screenshot.png",
+      "https://71c4021f677d4c129a484ac5c9e0a1f9-eg1t.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://71c4021f677d4c129a484ac5c9e0a1f9-eg1t.vercel.app/api/webhook"
+  }
+}

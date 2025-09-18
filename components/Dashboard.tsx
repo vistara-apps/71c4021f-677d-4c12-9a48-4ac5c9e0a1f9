@@ -36,7 +36,7 @@ export function Dashboard() {
   return (
     <div className="py-6 space-y-6">
       {/* Tab Navigation */}
-      <div className="flex space-x-1 bg-dark-surface rounded-lg p-1">
+      <div className="flex space-x-1 bg-surface rounded-lg p-1">
         {tabs.map((tab) => {
           const Icon = tab.icon;
           return (
@@ -46,7 +46,7 @@ export function Dashboard() {
               className={`flex-1 flex items-center justify-center space-x-2 py-2 px-3 rounded-md text-sm font-medium transition-colors duration-200 ${
                 activeTab === tab.id
                   ? 'bg-primary text-white'
-                  : 'text-dark-text-secondary hover:text-dark-foreground'
+                  : 'text-text-secondary hover:text-foreground'
               }`}
             >
               <Icon className="w-4 h-4" />
